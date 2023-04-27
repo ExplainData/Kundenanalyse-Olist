@@ -7,7 +7,6 @@ Inhalt
 ------
 Einleitung
 Datensätze
-Installation und Abhängigkeiten
 Struktur des R-Codes
 
 Einleitung
