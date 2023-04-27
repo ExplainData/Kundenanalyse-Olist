@@ -5,9 +5,11 @@ und regionale Unterschiede im Kaufverhalten zu untersuchen. Der Repository enth�
 
 Inhalt
 ------
-Einleitung
-Datensätze
-Struktur des R-Codes
+1-Einleitung
+
+2-Datensätze
+
+3-Struktur des R-Codes
 
 Einleitung
 ----------
